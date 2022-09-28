@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<unistd.h>
+ 
+int main()
+{
+    printf("now you are  directed in Exec program ");
+    printf("\n");
+    printf("Execvp() executed sucessfully ");
+    return 0;
+}
